@@ -12,6 +12,9 @@ plugin
 queries
 spell
 
+
+/node_modules
+
 # Global gitignore
 # ----------------
 
