@@ -1,0 +1,1 @@
+{"name":"go-debug-adapter","links":{"bin":{"go-debug-adapter":"go-debug-adapter"},"share":{},"opt":{}},"metrics":{"start_time":1711481318492,"completion_time":1711481319289},"secondary_sources":[],"schema_version":"1.1","primary_source":{"id":"pkg:github\/golang\/vscode-go@v0.41.2","type":"registry+v1"}}

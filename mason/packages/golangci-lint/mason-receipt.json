@@ -1,0 +1,1 @@
+{"name":"golangci-lint","links":{"bin":{"golangci-lint":"golangci-lint-1.57.1-darwin-arm64\/golangci-lint"},"share":{},"opt":{}},"metrics":{"start_time":1711481326588,"completion_time":1711481327652},"secondary_sources":[],"schema_version":"1.1","primary_source":{"id":"pkg:github\/golangci\/golangci-lint@v1.57.1","type":"registry+v1"}}
